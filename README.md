@@ -12,7 +12,7 @@ This is an open source Twitter clone, Built with T3 Stack + NextAuth + Postgres(
 
 To run the project locally, follow these steps:
 
-* Clone the project `git clone https://github.com/AlandSleman/next-twitter-clone`
+* Clone the project `git clone https://github.com/Shaunakdas/next-twitter-clone`
 * Copy the contents of the .env.example file into a new file named .env, then replace the values with your own.
 * Install the project dependencies by running `npm install`
 * Push the Prisma schema to the database `npx prisma db push`
